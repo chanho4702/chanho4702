@@ -7,6 +7,9 @@
 표준화된 환경에서 빠르게 시작하고, 공통 모듈을 재사용하며, 인프라를 자유롭게 교체·확장할 수 있는 MSA 스타터 템플릿입니다. 로컬 개발(Docker Compose)부터 운영 배포(Kubernetes), AI 기능 확장까지 단계적으로 성장하도록 설계했습니다.
 
 ---
+## 로드 맵 및 공부 정리
+학습 공간: https://app.notion.com/p/9feba17c225e4cfc9ca149c15c9a3443
+공부 로드맵: https://app.notion.com/p/380a0d2516be80d49931e9aa35de19ac
 
 ## 🎯 목표
 
